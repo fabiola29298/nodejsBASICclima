@@ -1,0 +1,15 @@
+{
+  "name": "05-climanode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "example_user <example-user@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "yargs": "^13.2.4"
+  }
+}
